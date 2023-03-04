@@ -1,0 +1,15 @@
+C:\Users\bierpeter\Desktop\YAP\OOP\OOP\bin\Debug\net6.0\OOP.exe
+C:\Users\bierpeter\Desktop\YAP\OOP\OOP\bin\Debug\net6.0\OOP.deps.json
+C:\Users\bierpeter\Desktop\YAP\OOP\OOP\bin\Debug\net6.0\OOP.runtimeconfig.json
+C:\Users\bierpeter\Desktop\YAP\OOP\OOP\bin\Debug\net6.0\OOP.dll
+C:\Users\bierpeter\Desktop\YAP\OOP\OOP\bin\Debug\net6.0\OOP.pdb
+C:\Users\bierpeter\Desktop\YAP\OOP\OOP\obj\Debug\net6.0\OOP.csproj.AssemblyReference.cache
+C:\Users\bierpeter\Desktop\YAP\OOP\OOP\obj\Debug\net6.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bierpeter\Desktop\YAP\OOP\OOP\obj\Debug\net6.0\OOP.AssemblyInfoInputs.cache
+C:\Users\bierpeter\Desktop\YAP\OOP\OOP\obj\Debug\net6.0\OOP.AssemblyInfo.cs
+C:\Users\bierpeter\Desktop\YAP\OOP\OOP\obj\Debug\net6.0\OOP.csproj.CoreCompileInputs.cache
+C:\Users\bierpeter\Desktop\YAP\OOP\OOP\obj\Debug\net6.0\OOP.dll
+C:\Users\bierpeter\Desktop\YAP\OOP\OOP\obj\Debug\net6.0\refint\OOP.dll
+C:\Users\bierpeter\Desktop\YAP\OOP\OOP\obj\Debug\net6.0\OOP.pdb
+C:\Users\bierpeter\Desktop\YAP\OOP\OOP\obj\Debug\net6.0\OOP.genruntimeconfig.cache
+C:\Users\bierpeter\Desktop\YAP\OOP\OOP\obj\Debug\net6.0\ref\OOP.dll
